@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { ProductService } from './shared/services/product.service';
-//this is master.
+//this is master. this is master
 /*
 .navbar-default {
     background-color: #4ea6bc !important;
