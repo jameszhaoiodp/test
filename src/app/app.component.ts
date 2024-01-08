@@ -25,5 +25,12 @@ export class AppComponent {
 
   }
 
+  cccc(){
+
+  }
+
+  eeee(){
+
+  }
 
 }
