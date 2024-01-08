@@ -12,10 +12,8 @@ export class AppComponent {
   }
   constructor() {
 //this is test.
-
-
-
-
+  }
+  dddd(){
 
   }
   aaa(){
