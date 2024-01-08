@@ -15,6 +15,12 @@ export class AppComponent {
 
 
   }
+  aaa(){
+
+  }
+  bbb(){
+
+  }
 
 
 }
