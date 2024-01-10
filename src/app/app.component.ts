@@ -7,28 +7,15 @@ import { ProductService } from './shared/services/product.service';
 })
 export class AppComponent {
 //this is changes in doc.
-  ccc(){
-    console.log("ssssssssssssss");
-  }
   constructor() {
 //this is test.
-  }
-  dddd(){
+//this is test 2.
+    //this is test 3.
 
-  }
-  aaa(){
 
-  }
-  bbb(){
+
 
   }
 
-  cccc(){
-
-  }
-
-  eeee(){
-
-  }
 
 }
