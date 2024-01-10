@@ -7,6 +7,7 @@ import { ProductService } from './shared/services/product.service';
 })
 export class AppComponent {
 //this is changes in doc.
+  //dgf
   constructor() {
 // this is new branch. test-new
 
