@@ -1,6 +1,6 @@
 # Ng5FirestoreProductReviewRating
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
+this is my changes.
 
 ## Development server
 
