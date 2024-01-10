@@ -23,6 +23,9 @@ export class AppComponent {
   }
   zzz(){
   }
+  kkk(){
+
+  }
 
 
 }
