@@ -16,6 +16,9 @@ export class AppComponent {
 
 
   }
+  xxx(){
+
+  }
 
 
 }
