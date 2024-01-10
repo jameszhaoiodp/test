@@ -17,7 +17,10 @@ export class AppComponent {
 
   }
   xxx(){
-
+  }
+  yyy(){
+  }
+  zzz(){
   }
 
 
